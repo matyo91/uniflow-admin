@@ -1,1 +1,1 @@
-export const ENTRYPOINT = 'https://api.uniflow.io/api';
+export const ENTRYPOINT = 'https://localhost:8091/api/';
